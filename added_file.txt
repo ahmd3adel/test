@@ -1,0 +1,5 @@
+1- create new repo in the GitHub
+2- connect remote repo with a local repo
+3- add new file to local repo and push it to the remote repo
+4- create any new commit and renaming it after creating using (git rebase)
+5- try to reset any commit using (hard & soft)
